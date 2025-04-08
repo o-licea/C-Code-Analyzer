@@ -28,7 +28,4 @@ The project should launch as a VCL Form, as shown below:
 - Make sure you're using **C++ Builder version 12** or higher to avoid compatibility issues.
 - This repository contains only the necessary files for compiling. If you encounter any issues, ensure your C++ Builder environment is correctly set up.
 
----
-
-Feel free to open an issue if you have any questions or need further assistance!
 
