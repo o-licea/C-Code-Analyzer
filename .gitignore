@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.obj
+*.tds
+*.dcu
+*.dsk
+*.~*
+*.bak
+*.identcache
+*.local
+*.stat
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.tvsconfig
+
+# Project-specific output
+__history/
+__recovery/
+Debug/
+Release/
+Win32/Debug/
+Win32/Release/

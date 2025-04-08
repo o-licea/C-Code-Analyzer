@@ -1,0 +1,2 @@
+[Unit1.h:31]: (style) Class 'TForm1' has a constructor with 1 argument that is not explicit.
+[Unit1.cpp:67]: (performance) Prefer prefix ++/-- operators for non-primitive types.
