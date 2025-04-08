@@ -19,7 +19,7 @@ If you are interested in running the project yourself, make sure to download and
 
 The project should launch as a VCL Form, as shown below:
 
-![Example Image](./example.png) *(Optional: You can replace this with an actual screenshot of your project interface)*
+![Example Image](./example.png) 
 
 ---
 
